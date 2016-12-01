@@ -7,8 +7,9 @@ Note that the file "*/formula.txt" save the clauses you want to prove.The conten
 - premise
 - negation of conclusion
 
-For example, the following clauses are the current content of this file:
-  (@x)(P(x)>Q(x))
-  ~(@x)(~Q(x)>~P(x))
+The following clauses are the current content of this file:
+
+- (@x)(P(x)>Q(x))
+- ~(@x)(~Q(x)>~P(x))
   
 Actually, we are going to prove "(@x)(P(x)>Q(x)) -> (@x)(~Q(x)>~P(x))".
