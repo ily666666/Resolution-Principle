@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1479116384 source:e:\lab\cpplang\resolutionp\subsentence.cpp
+	"subsentence.h"
+
+1479116368 e:\lab\cpplang\resolutionp\subsentence.h
+	<string>
+	<set>
+
+1479123532 source:e:\lab\cpplang\resolutionp\main.cpp
+
+1479124545 source:e:\lab\cpplang\resolutionp\resolution.cpp
+	"subsentence.h"
+	<iostream>
+	<fstream>
+
+1479608358 source:e:\lab\cpplang\resolution\main.cpp
+	"Testbench.h"
+
+1479729607 source:e:\lab\cpplang\resolution\resolution.cpp
+	"Resolution.h"
+
+1479728649 e:\lab\cpplang\resolution\subsentence.h
+	<string>
+	<set>
+	<algorithm>
+	<random>
+	<stdexcept>
+	<cctype>
+
+1479731855 source:e:\lab\cpplang\resolution\subsentence.cpp
+	"subsentence.h"
+	<cassert>
+
+1479134449 source:e:\lab\cpplang\resolution\preprocessing.cpp
+	"preprocessing.h"
+	<iterator>
+	<functional>
+	<algorithm>
+
+1479730049 e:\lab\cpplang\resolution\preprocessing.h
+	<string>
+
+1479567103 source:e:\lab\cpplang\resolution\subsentence_testbench.cpp
+	"subsentence.h"
+	"preprocessing.h"
+	<iostream>
+	<fstream>
+	<iterator>
+
+1479720553 e:\lab\cpplang\resolution\testbench.h
+
+1479720474 e:\lab\cpplang\resolution\resolution.h
+	<set>
+	<utility>
+	<string>
+	<cstring>
+	<algorithm>
+	<cassert>
+	<exception>
+	"subsentence.h"
+
+1479728878 source:e:\lab\cpplang\resolution\testbench.cpp
+	"Testbench.h"
+	"subsentence.h"
+	"preprocessing.h"
+	"Resolution.h"
+	<iostream>
+	<fstream>
+	<iterator>
+
